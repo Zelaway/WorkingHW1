@@ -1,0 +1,14 @@
+body{
+	font-family: font-family: 'Lora', serif;
+	font-size: 16px;
+	line-height: 25px;
+	background-color: red;
+}
+#h1{
+	font-size: 30px;
+	line-height: 45px;
+}
+#h2{
+	font-size: 25px;
+	line-height: 36px;
+}
